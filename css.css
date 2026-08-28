@@ -1,0 +1,44 @@
+body {background-color: #F8F2EF;color:#59616B;font-family: Georgia, serif;font-size: 12pt;margin: 30px;}
+
+h1 {color: #8391A3;font-family: Georgia, serif;font-weight: normal;text-align: center;font-size: 50pt}
+
+h2 {color: #8391A3;font-family: Georgia, serif;font-weight: normal;text-align: center;font-size: 40pt}
+
+h3 {color: #8391A3;font-family: Georgia, serif;font-weight: normal;text-align: center;font-size: 30pt}
+
+form {background-color: #FFFFFF;width: 70%;margin: auto;padding: 25px;border: 2px solid #E5D6CE;}
+
+table {width: 100%;margin: auto;}
+
+td,th {padding: 8px;color: #59616B;}
+
+th {color: #8391A3;font-size: 20pt;font-weight: bold;}
+
+input,select,textarea,button {font-family: Georgia, serif;font-size: 11pt;}
+
+input[type="text"],input[type="email"],input[type="password"],input[type="file"],select,textarea {background-color: #F8F2EF;color: #59616B;border: 1px solid #D2DCE4;padding: 8px;}
+
+input[type="text"]:focus,input[type="email"]:focus,input[type="password"]:focus,select:focus,textarea:focus {background-color: #E7EBEE;border-color: #8391A3;}
+
+textarea {width: 90%;height: 100px;}
+
+input[type="checkbox"],input[type="radio"] {accent-color: #8391A3;}
+
+input[type="submit"],input[type="button"],input[type="reset"],button {background-color: #D2DCE4;color: #59616B;border: 1px solid #8391A3;padding: 8px 18px;font-family: Georgia, serif;cursor: pointer;}
+
+input[type="submit"]:hover,button:hover {background-color: #8391A3;color: white;}
+
+input[type="reset"]:hover {background-color: #DEC3B3;color: white;}
+
+input[type="button"]:hover {background-color: #C0BFCF;color: white;}
+
+a:link {color: #8391A3;text-decoration: none;}
+
+a:visited {color: #C0BFCF;text-decoration: none;}
+
+a:hover {color: #DEC3B3;text-decoration: none;}
+
+label {color: #59616B;}
+
+::selection {background-color: #DEC3B3;color: white;}
+
